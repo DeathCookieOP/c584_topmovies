@@ -13,6 +13,11 @@ public partial class ProducerCompany
     [Column("id")]
     public int Id { get; set; }
 
+    [Column("company_image")]
+    [StringLength(512)]
+    [Unicode(false)]
+    public string? CompanyImage { get; set; }
+
     [Column("name")]
     [StringLength(120)]
     [Unicode(false)]

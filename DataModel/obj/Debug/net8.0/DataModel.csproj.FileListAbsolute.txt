@@ -14,3 +14,4 @@ D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.csproj.Assembly
 D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.genruntimeconfig.cache
 D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\appsettings.Development.json
 D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\appsettings.json
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.sourcelink.json

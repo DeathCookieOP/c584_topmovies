@@ -17,6 +17,11 @@ public partial class Movie
     [Unicode(false)]
     public string Title { get; set; } = null!;
 
+    [Column("movie_image")]
+    [StringLength(512)] 
+    [Unicode(false)]
+    public string MovieImage { get; set; } = null!;
+
     [Column("company_id")]
     public int CompanyId { get; set; }
 

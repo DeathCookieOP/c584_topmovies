@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DataModel;
+using Backend_API.DTO;
 
 namespace Backend_API.Controllers
 {
@@ -22,9 +23,26 @@ namespace Backend_API.Controllers
 
         // GET: api/Movies
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Movie>>> GetMovies()
+        public async Task<ActionResult<IList<MovieDTO>>> GetMovies()
         {
-            return await _context.Movies.ToListAsync();
+            IQueryable<MovieDTO> x = _context.Movies.Select((c) =>
+                new MovieDTO
+                {
+                    //Id ComanyName Title Rating Description ReleaseDate
+
+                    Id = c.Id,
+                    
+                    Title = c.Title,
+                    Rating = c.Rating,
+                    Description = c.Description,
+                    ReleaseDate = c.ReleaseDate,
+                    MovieImage = c.MovieImage,
+
+                    //c.Company gives us the corresponding company
+                    CompanyName = c.Company.Name,
+                }).Take(100); //will only give us 100 rows
+
+            return await x.ToListAsync();
         }
 
         // GET: api/Movies/5
