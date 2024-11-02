@@ -1,0 +1,16 @@
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\DataModel.deps.json
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\DataModel.dll
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\DataModel.pdb
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfoInputs.cache
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfo.cs
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.csproj.CoreCompileInputs.cache
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.dll
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\refint\DataModel.dll
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.pdb
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\ref\DataModel.dll
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\DataModel.runtimeconfig.json
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.csproj.AssemblyReference.cache
+D:\C584 Project\Backend_API\DataModel\obj\Debug\net8.0\DataModel.genruntimeconfig.cache
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\appsettings.Development.json
+D:\C584 Project\Backend_API\DataModel\bin\Debug\net8.0\appsettings.json
