@@ -1,7 +1,7 @@
 # C584 Top Movie Picks
 
 
-A web application that showcases my personal top 10 favorite movies with detailed information and integration with the IMDB API to check the producing companies' other top films.
+A web application that showcases my personal top 10 favorite movies with detailed information and information on all the producing companies.
 
 ### 🎯 Project Overview
 This website serves as a curated collection of my favorite films, providing visitors with:
@@ -24,6 +24,5 @@ Movie Showcase
 
 * Producer Comapny Integration
   * Clickable producer company names
-  * IMDB API integration for extended filmography
   * Comprehensive producer information and history
   * More...
