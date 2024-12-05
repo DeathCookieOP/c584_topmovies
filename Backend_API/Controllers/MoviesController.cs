@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DataModel;
 using Backend_API.DTO;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Backend_API.Controllers
 {
@@ -22,6 +23,7 @@ namespace Backend_API.Controllers
         }
 
         // GET: api/Movies
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<IList<MovieDTO>>> GetMovies()
         {

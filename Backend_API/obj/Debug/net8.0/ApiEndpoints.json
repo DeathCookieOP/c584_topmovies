@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Backend_API.Controllers.AdminController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/Admin/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Backend_API.DTO.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Backend_API.Controllers.MoviesController",
     "Method": "GetMovies",
     "RelativePath": "api/Movies",
@@ -215,6 +231,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Backend_API.Controllers.SeedController",
+    "Method": "ImportUsersAsync",
+    "RelativePath": "api/Seed/Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

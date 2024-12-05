@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json;
+
 
 namespace DataModel;
 
-public partial class RonnyMoviesContext : DbContext
+public partial class RonnyMoviesContext : IdentityDbContext<AppUser>
 {
     public RonnyMoviesContext()
     {
@@ -34,6 +37,7 @@ public partial class RonnyMoviesContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Movie>(entity =>
         {
             entity.HasOne(d => d.Company).WithMany(p => p.Movies)
