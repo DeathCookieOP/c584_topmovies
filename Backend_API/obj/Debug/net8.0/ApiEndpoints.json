@@ -44,8 +44,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "movie",
-        "Type": "DataModel.Movie",
+        "Name": "movieDTO",
+        "Type": "Backend_API.DTO.MovieAddDTO",
         "IsRequired": true
       }
     ],

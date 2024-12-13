@@ -94,13 +94,23 @@ namespace Backend_API.Controllers
 
         // POST: api/Movies
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        [Authorize]
         [HttpPost]
-        public async Task<ActionResult<Movie>> PostMovie(Movie movie)
+        public async Task<ActionResult<Movie>> PostMovie(MovieAddDTO movieDTO)
         {
-            _context.Movies.Add(movie);
+            var movieToAdd = new Movie
+            {
+                Title = movieDTO.Title,
+                MovieImage = movieDTO.MovieImage,
+                CompanyId = movieDTO.CompanyId,
+                Rating = movieDTO.Rating,
+                Description = movieDTO.Description,
+                ReleaseDate = movieDTO.ReleaseDate
+            };
+            _context.Movies.Add(movieToAdd);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetMovie", new { id = movie.Id }, movie);
+            return CreatedAtAction("GetMovie", new { id = movieToAdd.Id }, movieToAdd);
         }
 
         // DELETE: api/Movies/5

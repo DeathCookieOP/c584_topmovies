@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "D:\\C584 Project\\Backend_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\ronnymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\ronnymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\dto\\movieadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\movieadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +23,52 @@
       "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\ronnymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\ronnymoviescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\producercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\producercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\dto\\producercompaniesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\dto\\producercompaniesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\producercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\producercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|d:\\c584 project\\backend_api\\datamodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34E2F911-E014-445D-BD12-922FDEA7B3BF}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|d:\\c584 project\\backend_api\\backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47482494-7F55-4AAB-B799-4EA3ABF65425}|Backend_API\\Backend_API.csproj|solutionrelative:backend_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,57 +78,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Backend_API\\appsettings.Development.json",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.Development.json",
-              "RelativeToolTip": "Backend_API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T21:18:20.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.json",
-              "RelativeDocumentMoniker": "Backend_API\\appsettings.json",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.json",
-              "RelativeToolTip": "Backend_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-05T21:18:16.614Z",
+              "Title": "MovieAddDTO.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieAddDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\MovieAddDTO.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieAddDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\MovieAddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T06:01:00.762Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginResponse.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginResponse.cs",
-              "RelativeDocumentMoniker": "Backend_API\\DTO\\LoginResponse.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginResponse.cs",
-              "RelativeToolTip": "Backend_API\\DTO\\LoginResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:07:54.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Backend_API\\DTO\\LoginRequest.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginRequest.cs",
-              "RelativeToolTip": "Backend_API\\DTO\\LoginRequest.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:07:44.795Z"
             },
             {
               "$type": "Document",
@@ -130,13 +101,14 @@
               "RelativeDocumentMoniker": "Backend_API\\Controllers\\AdminController.cs",
               "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\AdminController.cs",
               "RelativeToolTip": "Backend_API\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wBwAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T07:06:18.59Z"
+              "WhenOpened": "2024-12-05T07:06:18.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\AppUser.cs",
               "RelativeDocumentMoniker": "DataModel\\AppUser.cs",
@@ -149,77 +121,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\Movie.cs",
+              "RelativeDocumentMoniker": "DataModel\\Movie.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\Movie.cs",
+              "RelativeToolTip": "DataModel\\Movie.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:58:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedController.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\SeedController.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Controllers\\SeedController.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\SeedController.cs",
+              "RelativeToolTip": "Backend_API\\Controllers\\SeedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:00:42.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RonnyMoviesContext.cs",
               "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\RonnyMoviesContext.cs",
               "RelativeDocumentMoniker": "DataModel\\RonnyMoviesContext.cs",
               "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\RonnyMoviesContext.cs",
               "RelativeToolTip": "DataModel\\RonnyMoviesContext.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwCcAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T21:05:04.761Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SeedController.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\SeedController.cs",
-              "RelativeDocumentMoniker": "Backend_API\\Controllers\\SeedController.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\SeedController.cs",
-              "RelativeToolTip": "Backend_API\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:00:42.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\Program.cs",
-              "RelativeDocumentMoniker": "Backend_API\\Program.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Program.cs",
-              "RelativeToolTip": "Backend_API\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T01:27:59.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProducerCompany.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\ProducerCompany.cs",
-              "RelativeDocumentMoniker": "DataModel\\ProducerCompany.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\ProducerCompany.cs",
-              "RelativeToolTip": "DataModel\\ProducerCompany.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T23:07:35.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\Movie.cs",
-              "RelativeDocumentMoniker": "DataModel\\Movie.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\Movie.cs",
-              "RelativeToolTip": "DataModel\\Movie.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:58:01.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Backend_API\\Controllers\\MoviesController.cs",
               "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Controllers\\MoviesController.cs",
               "RelativeToolTip": "Backend_API\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T23:05:13.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\LoginRequest.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:07:44.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\LoginResponse.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:07:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDTO.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieDTO.cs",
+              "RelativeDocumentMoniker": "Backend_API\\DTO\\MovieDTO.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieDTO.cs",
+              "RelativeToolTip": "Backend_API\\DTO\\MovieDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T22:59:51.158Z",
               "EditorCaption": ""
             },
             {
@@ -232,31 +220,83 @@
               "RelativeToolTip": "Backend_API\\DTO\\ProducerCompaniesDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T23:00:19.876Z"
+              "WhenOpened": "2024-11-02T23:00:19.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MovieDTO.cs",
-              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieDTO.cs",
-              "RelativeDocumentMoniker": "Backend_API\\DTO\\MovieDTO.cs",
-              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\DTO\\MovieDTO.cs",
-              "RelativeToolTip": "Backend_API\\DTO\\MovieDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\Program.cs",
+              "RelativeDocumentMoniker": "Backend_API\\Program.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\Program.cs",
+              "RelativeToolTip": "Backend_API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T22:59:51.158Z"
+              "WhenOpened": "2024-11-03T01:27:59.819Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ProducerCompany.cs",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\ProducerCompany.cs",
+              "RelativeDocumentMoniker": "DataModel\\ProducerCompany.cs",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\ProducerCompany.cs",
+              "RelativeToolTip": "DataModel\\ProducerCompany.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:07:35.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "JwtHandler.cs",
               "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\JwtHandler.cs",
               "RelativeDocumentMoniker": "Backend_API\\JwtHandler.cs",
               "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\JwtHandler.cs",
               "RelativeToolTip": "Backend_API\\JwtHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T21:49:40.861Z"
+              "WhenOpened": "2024-12-04T21:49:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend_API\\appsettings.json",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.json",
+              "RelativeToolTip": "Backend_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T21:18:16.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\DataModel\\appsettings.json",
+              "RelativeDocumentMoniker": "DataModel\\appsettings.json",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\DataModel\\appsettings.json",
+              "RelativeToolTip": "DataModel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T03:54:58.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend_API\\appsettings.Development.json",
+              "ToolTip": "D:\\C584 Project\\Backend_API\\Backend_API\\appsettings.Development.json",
+              "RelativeToolTip": "Backend_API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T21:18:20.659Z"
             }
           ]
         }
