@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DataModel;
+using Backend_API.DTO;
 
 namespace Backend_API.Controllers
 {
@@ -75,8 +76,16 @@ namespace Backend_API.Controllers
         // POST: api/ProducerCompanies
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<ProducerCompany>> PostProducerCompany(ProducerCompany producerCompany)
+        public async Task<ActionResult<ProducerCompany>> PostProducerCompany(CompanyAddDTO companyDTO)
         {
+            var producerCompany = new ProducerCompany
+            {
+                CompanyImage = companyDTO.CompanyImage,
+                Name = companyDTO.Name,
+                Description = companyDTO.Description,
+                FoundedYear = companyDTO.FoundedYear
+            };
+
             _context.ProducerCompanies.Add(producerCompany);
             await _context.SaveChangesAsync();
 

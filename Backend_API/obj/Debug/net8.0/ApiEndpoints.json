@@ -153,8 +153,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "producerCompany",
-        "Type": "DataModel.ProducerCompany",
+        "Name": "companyDTO",
+        "Type": "Backend_API.DTO.CompanyAddDTO",
         "IsRequired": true
       }
     ],
